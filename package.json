@@ -1,0 +1,34 @@
+{
+  "name": "@pomofficial/request",
+  "version": "1.0.0",
+  "description": "The official request-promise library wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "http",
+    "Promise",
+    "wrapper"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2"
+  },
+  "peerDependencies": {
+    "pomegranate": "6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PomOfficial/request.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PomOfficial/request/issues"
+  },
+  "homepage": "https://github.com/PomOfficial/request#readme"
+}
